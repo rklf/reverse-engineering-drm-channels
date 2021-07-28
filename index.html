@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Shaka Player ui compiled library: -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/3.0.4/shaka-player.ui.min.js"></script>
+    <!-- Shaka Player ui compiled library default CSS: -->
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/3.0.4/controls.min.css">
+    <!-- Your application source: -->
+    <script type="module" src="app.js"></script>
+</head>
+
+<body>
+    <div data-shaka-player-container>  
+        <video autoplay data-shaka-player id="video" style="width: 100vw; height: calc(var(--vh, 1vh) * 100);"></video>
+      </div>
+</body>
+
+</html>
