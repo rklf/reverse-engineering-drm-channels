@@ -11,7 +11,7 @@ All channels, including paid channels like sports channels (RMC Sport, beIN SPOR
 ### 🚧 Process:
 An API I've made returns all channels available for each provider (SFR or Canal) with their URLs, use them to play the channel for differents platforms Windows, Mac, iOS or Android according the DRM (Widevine, Fairplay or Playready) with [Shaka Player](https://github.com/google/shaka-player "Shaka Player Github"), a Javascript player library.
 
-#### 📺 Working demo:
+#### 📺 Working demo: https://www.youtube.com/watch?v=bqqmW_CgB_o
 <p align="center">
 <a href="https://www.youtube.com/watch?v=bqqmW_CgB_o"><img src="https://img.youtube.com/vi/bqqmW_CgB_o/maxresdefault.jpg" width="640" alt="Youtube working demo"/></a>
 <img src="https://github.com/rklf/reverse-engineering-drm-channels/blob/main/webapp.png?raw=true" width="640" alt="Web app demo"/>
